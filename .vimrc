@@ -5,7 +5,6 @@ syntax on
 autocmd BufNewFile *.cpp 0read ~/.vim/template/template.cpp
 
 set clipboard=unnamed,autoselect
-
 set expandtab
 set tabstop=2 
 set shiftwidth=2 
